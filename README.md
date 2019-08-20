@@ -18,7 +18,7 @@ gem update --system
 4. Install the dependences (gems) using the command:
 bundler install
 
-5. Run the tests by executing the following the command in the folder "Features":
+5. Run the tests by executing the following the command in root folder:
 cucumber features/search.feature
 
 
